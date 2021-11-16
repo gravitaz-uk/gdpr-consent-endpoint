@@ -9,7 +9,7 @@
   "author": "Tim Holmes",
   "license": "ISC",
   "dependencies": {
-    "aws-sdk": "^2.229.1",
+    "aws-sdk": "^2.814.0",
     "body-parser": "^1.18.2",
     "cluster": "^0.7.7",
     "colors": "^1.2.1",
